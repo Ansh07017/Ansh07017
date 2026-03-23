@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh07017&label=Profile%20views&color=0e75b6&style=flat" alt="ansh07017" /> </p>
 
-- 🔭 I’m currently working on [Toptimizer(TimetableOptimizer and Study Help)](https://github.com/Ansh07017/Toptimizer)
+- 🔭 I’m currently working on [Toptimizer(TimetableOptimizer and Study Help)](https://github.com/Ansh07017/Timetable-Optimizer)
 
 - 🌱 I’m currently learning **AI vector search Fundamentals By Oracle**
 
-- 👯 I’m looking to collaborate on [TenderFlow(Tender Discovery and Analysis)](https://github.com/Ansh07017/TenderFlow)
+- 👯 I’m looking to collaborate on [TenderFlow(Tender Discovery and Analysis)](https://github.com/Ansh07017/Tender_Flow)
 
-- 🤝 I’m looking for help with [M-Track(Real Time Memory Allocation Tracker)](https://github.com/Ansh07017/Memory-Allocation-Tracker)
+- 🤝 I’m looking for help with [M-Track(Real Time Memory Allocation Tracker)](https://github.com/Ansh07017/Ammit)
 
 - 👨‍💻 All of my projects are available at [https://ansh07017.github.io/My_Portfolio/](https://ansh07017.github.io/My_Portfolio/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pratapsingh07017@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vCPbhoNBwW4koV0B3x62Z1Zj3rCOrdxt/view?usp=drive_link](https://drive.google.com/file/d/1vCPbhoNBwW4koV0B3x62Z1Zj3rCOrdxt/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TXEL8-7cs9OfT6L8KOKWcmDLatbBSrQK](https://drive.google.com/file/d/1TXEL8-7cs9OfT6L8KOKWcmDLatbBSrQK)
 
 - ⚡ Fun fact **I think, I am good at chess!**
 
