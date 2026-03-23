@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh07017&label=Profile%20views&color=0e75b6&style=flat" alt="ansh07017" /> </p>
 
-- 🔭 I’m currently working on [Chill-n-Thrill(Movie Recommendation System)](https://github.com/Ansh07017/Movie-Suggestor)
+- 🔭 I’m currently working on [Toptimizer(TimetableOptimizer and Study Help)](https://github.com/Ansh07017/Toptimizer)
 
 - 🌱 I’m currently learning **AI vector search Fundamentals By Oracle**
 
-- 👯 I’m looking to collaborate on [Family & Friends(Relations & Memories)](https://github.com/Ansh07017/Family---Friends)
+- 👯 I’m looking to collaborate on [TenderFlow(Tender Discovery and Analysis)](https://github.com/Ansh07017/TenderFlow)
 
 - 🤝 I’m looking for help with [M-Track(Real Time Memory Allocation Tracker)](https://github.com/Ansh07017/Memory-Allocation-Tracker)
 
