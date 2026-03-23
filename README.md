@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [M-Track(Real Time Memory Allocation Tracker)](https://github.com/Ansh07017/Ammit)
 
-- 👨‍💻 All of my projects are available at [https://ansh07017.github.io/My_Portfolio/](https://ansh07017.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at [https://ansh07017.github.io/My_Portfolio/](https://ansh07017.github.io/MyPortfolio/)
 
 - 💬 Ask me about **Data Science and Analytics**
 
