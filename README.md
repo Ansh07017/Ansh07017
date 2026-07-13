@@ -34,9 +34,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=Twilio&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ansh07017&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://streak-stats.demolab.com/?user=Ansh07017&theme=dark&hide_border=false)
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Ansh07017&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Ansh07017&theme=dark&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ansh07017&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
