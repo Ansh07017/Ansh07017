@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ansh Pratap Singh</h1>
-<h3 align="center">A passionate & curious data engineer from India</h3>
+<h3 align="center">A passionate & curious Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh07017&label=Profile%20views&color=0e75b6&style=flat" alt="ansh07017" /> </p>
 
-- 🔭 I’m currently working on [Toptimizer(TimetableOptimizer and Study Help)](https://github.com/Ansh07017/Timetable-Optimizer)
+- 🔭 I’m currently working on **[AI Knowledge Graph Builder](https://github.com/Ansh07017)** (using Neo4j, Groq, and RAG pipelines) and **[FINSIGHT](https://github.com/Ansh07017)** (Fintech application)
 
-- 🌱 I’m currently learning **AI vector search Fundamentals By Oracle**
+- 🌱 I’m currently learning **Microsoft Fabric DP-600 and DP-800**
 
-- 👯 I’m looking to collaborate on [TenderFlow(Tender Discovery and Analysis)](https://github.com/Ansh07017/Tender_Flow)
-
-- 🤝 I’m looking for help with [M-Track(Real Time Memory Allocation Tracker)](https://github.com/Ansh07017/Ammit)
+- 👯 I’m looking to collaborate on **[TenderFlow (RFQ and Auction System)](https://github.com/Ansh07017/Tender_Flow)**
 
 - 👨‍💻 All of my projects are available at [https://ansh07017.github.io/My_Portfolio/](https://ansh07017.github.io/MyPortfolio/)
 
-- 💬 Ask me about **Data Science and Analytics**
+- 💬 Ask me about **Java, Python, Full-Stack Development, and Data Analytics**
 
 - 📫 How to reach me **pratapsingh07017@gmail.com**
 
