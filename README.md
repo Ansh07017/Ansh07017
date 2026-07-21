@@ -2,7 +2,17 @@
 <h3 align="center">A passionate & curious Software Developer from India</h3>
 
 # 💫 About Me:
-- 🔭 **I’m currently working on:** **[Omni-Guard](https://github.com/Ansh07017/Omni-Guard)** (A Deep Learning-powered browser extension that shields users from toxic content)<br><br>- 💼 **During my internship at Infosys Springboard:** We engineered **[KGB](https://github.com/Ansh07017/KGB)** ( A Graph RAG Agentic AI that resolves IT support customer tickets)<br><br>- 💡 **I've built: **[Finsight](https://github.com/Ansh07017/FinSight)** (A fintech project to track expenses and promote competitive savings<br><br>- 🌱 **I’m currently learning: **[Microsoft Fabric DP-600 and DP-800](https://learn.microsoft.com/en-us/collections/j082f3tp058006?)**<br><br>- 👯 **I’m looking to collaborate on:** **[TenderFlow](https://github.com/Ansh07017/Tender_Flow)** (An enterprise-grade Agentic AI platform that automates the complete B2B RFP lifecycle — from discovery to executive-ready dossier generation)<br><br>- 👨‍💻 **All of my projects are available at:** **[My Portfolio](https://ansh07017.github.io/MyPortfolio/)**<br><br>- 💬 **Ask me about:** Java, Generative AI, Python, Full-Stack Development, and Data Analytics<br><br>- 📫 **How to reach me:** **pratapsingh07017@gmail.com**<br><br>- 📄 **Know about my experiences through:** **[My Resume](https://drive.google.com/file/d/1mhUzkthDpuLXfc5I00PpZBqKgDpUJ6Wh/view?usp=sharing)**<br>- ⚡ **Fun fact:** I think I am good at chess! Check out my profile: **[Ansh07017](https://www.chess.com/member/ansh07017)** ♟️
+
+- 🔭 **I’m currently working on:** [Omni-Guard](https://github.com/Ansh07017/Omni-Guard) — A Deep Learning-powered browser extension that shields users from toxic content.
+- 💼 **During my internship at Infosys Springboard:** We engineered [KGB](https://github.com/Ansh07017/KGB) — A Graph RAG Agentic AI that resolves IT support customer tickets.
+- 💡 **I've built:** [FinSight](https://github.com/Ansh07017/FinSight) — A fintech project to track expenses and promote competitive savings.
+- 🌱 **I’m currently learning:** [Microsoft Fabric DP-600 and DP-800](https://learn.microsoft.com/en-us/collections/j082f3tp058006?).
+- 👯 **I’m looking to collaborate on:** [TenderFlow](https://github.com/Ansh07017/Tender_Flow) — An enterprise-grade Agentic AI platform that automates the complete B2B RFP lifecycle, from discovery to executive-ready dossier generation.
+- 👨‍💻 **All of my projects are available at:** [My Portfolio](https://ansh07017.github.io/MyPortfolio/).
+- 💬 **Ask me about:** Java, Generative AI, Python, Full-Stack Development, and Data Analytics.
+- 📫 **How to reach me:** pratapsingh07017@gmail.com
+- 📄 **Know about my experiences through:** [My Resume](https://drive.google.com/file/d/1mhUzkthDpuLXfc5I00PpZBqKgDpUJ6Wh/view?usp=sharing)
+- ⚡ **Fun fact:** I think I'm pretty good at chess! Check out my profile: [Ansh07017](https://www.chess.com/member/ansh07017) ♟️
 
 # 💻 Tech Stack:
 
