@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 
-- 🔭 **I’m currently working on:** [PragatiBharati](https://www.pragatibharati.com) — A Deep Learning-powered browser extension that shields users from toxic content.
+- 🔭 **I’m currently working on:** [PragatiBharati](https://pragatibharati.com) — A Deep Learning-powered browser extension that shields users from toxic content.
 - 💼 **During my internship at Infosys Springboard:** We engineered [KGB](https://github.com/Ansh07017/KGB) — A Graph RAG Agentic AI that resolves IT support customer tickets.
 - 💡 **I've built:** [FinSight](https://github.com/Ansh07017/FinSight) — A fintech project to track expenses and promote competitive savings.
 - 🌱 **I’m currently learning:** [Microsoft Fabric DP-600 and DP-800](https://learn.microsoft.com/en-us/collections/j082f3tp058006?).
